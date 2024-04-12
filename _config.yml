@@ -27,7 +27,7 @@ author:
   bio              : "I am an environmental economist (MS)"
   location         : "Concepción, Chile"
   employer         : "UCSC"
-  uri              :  "https://ucsc.cl/"
+  #uri              :  "https://ucsc.cl/"
   email            : "leonardomanriquezmendez@gmail.com" 
 
   # Academic websites
@@ -47,7 +47,7 @@ author:
   #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  #bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
