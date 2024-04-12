@@ -35,7 +35,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=ndZaBDkAAAAJ&hl=es"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
