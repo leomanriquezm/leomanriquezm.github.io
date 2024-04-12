@@ -12,7 +12,7 @@ title                    : "Leonardo Manríquez M."
 title_separator          : "-"
 name                     : &name "Leonardo Manríquez M."
 description              : &description "personal description"
-url                      : https://github.com/leomanriquezm.github.io 
+url                      : "https://github.com/leomanriquezm.github.io" 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "leomanriquezm/leomanriquezm.github.io "
 
